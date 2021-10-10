@@ -1,5 +1,10 @@
 # NetflixのApiを使って映画やアニメなどのメモや感想をまとめていくアプリ
 
+## 練習用に作成したクローンアプリ
+
+約2時間くらい
+https://netflix-memos.web.app
+
 ## Available Scripts
 
 In the project directory, you can run:
